@@ -1,0 +1,6 @@
+Flask>=2.0
+flask-cors
+python-dotenv
+requests
+ibm-watson>=5.3.0
+ibm-cloud-sdk-core>=3.16.0
